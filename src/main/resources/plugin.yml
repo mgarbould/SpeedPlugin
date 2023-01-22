@@ -1,0 +1,4 @@
+name: SpeedPlugin
+version: '${project.version}'
+main: max.seed.me.speedplugin.SpeedPlugin
+api-version: 1.15

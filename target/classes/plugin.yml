@@ -1,0 +1,4 @@
+name: SpeedPlugin
+version: '1.0-SNAPSHOT'
+main: max.seed.me.speedplugin.SpeedPlugin
+api-version: 1.15
